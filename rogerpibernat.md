@@ -6,4 +6,7 @@ Links
 - <https://wucollective.com/>
 
 <img src="rogerpibernat.jpg" width="300">
-[high resolution image by by Katja Goljat](https://my.hidrive.com/lnk/v7iAGLAw" width="300") 
+[high resolution image by by Katja Goljat](https://my.hidrive.com/lnk/v7iAGLA) 
+<https://my.hidrive.com/lnk/v7iAGLA>
+
+by Katja Goljat [download high resolution](https://my.hidrive.com/lnk/v7iAGLA)
