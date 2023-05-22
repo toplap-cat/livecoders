@@ -4,12 +4,12 @@ Coming from Caracas, Venezuela, xiwire deals high-intensity sets bringing togeth
 
 Links
 
-Personal: <https://xiwi.re> 
-Github: <https://github.com/xiwire>
-Instagram: <https://www.instagram.com/xiwire_>
-SoundCloud: <https://soundcloud.com/xiwire> 
-Resident Advisor: <https://ra.co/dj/xiwire>
+- Personal: <https://xiwi.re> 
+- Github: <https://github.com/xiwire>
+- Instagram: <https://www.instagram.com/xiwire_>
+- SoundCloud: <https://soundcloud.com/xiwire> 
+- Resident Advisor: <https://ra.co/dj/xiwire>
 
 
-<img src="wiwire-00.jpg" width="300">
-<img src="wiwire-01.png" width="300">
+<img src="xiwire-00.jpg" width="300">
+<img src="xiwire-01.png" width="300">
