@@ -6,3 +6,4 @@ Links
 - <https://wucollective.com/>
 
 <img src="rogerpibernat.jpg" width="300">
+<img src="https://my.hidrive.com/lnk/v7iAGLAw" width="300"> by Katja Goljat
