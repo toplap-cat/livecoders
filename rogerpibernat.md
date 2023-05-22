@@ -5,6 +5,8 @@ Roger Pibernat is an illustrator and musician with a severe tinkering itch. He w
 Links
 
 - <https://www.rogerpibernat.com/>
+- <https://github.com/loopier/ziva>
+- <https://github.com/loopier/animatron>
 - <https://wucollective.com/>
 
 <img src="rogerpibernat.jpg" width="300">
