@@ -9,4 +9,4 @@ Links:
 
 
 <img src="alicia-champlin-01.png" width="300">
-<img src="alicia-champlin-02.jpg" width="300">
+<img src="alicia-champlin-02.jpeg" width="300">
