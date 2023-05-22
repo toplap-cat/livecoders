@@ -2,3 +2,4 @@ Lina Bautista aka Linalab is a musician from Bogotá, Colombia that lives and wo
 
 https://linalab.com/ 
 
+<img src="linalab.jpg" width="300">
