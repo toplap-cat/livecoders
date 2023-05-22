@@ -10,7 +10,8 @@ Having played in a variety of music ensembles in the distant past (ranging from 
 
 
 Links:
-<https://github.com/the-drunk-coder/megra.rs>
-<https://vimeo.com/user37414592>
 
-![](niklas-reppel.jpg)
+- <https://github.com/the-drunk-coder/megra.rs>
+- <https://vimeo.com/user37414592>
+
+<img src="niklas-reppel.jpg" width="300">
