@@ -11,8 +11,9 @@ Having played in a variety of music ensembles in the distant past (ranging from 
 - https://www.parkellipsen.de
 - https://ellipsenpark.bandcamp.com
 - https://github.com/the-drunk-coder/megra.rs
-- https://soundclound.com/parkellipsen
 - https://vimeo.com/user37414592
+- https://soundclound.com/parkellipsen
+- https://www.youtube.com/channel/UCysfFg8mCCzyzXxUb04i9UQ
 
 ## Picture:
 
