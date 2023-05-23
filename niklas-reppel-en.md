@@ -8,12 +8,13 @@ Having played in a variety of music ensembles in the distant past (ranging from 
 
 ## Links:
 
-- https://www.parkellipsen.de
-- https://ellipsenpark.bandcamp.com
-- https://github.com/the-drunk-coder/megra.rs
-- https://vimeo.com/user37414592
-- https://soundclound.com/parkellipsen
-- https://www.youtube.com/channel/UCysfFg8mCCzyzXxUb04i9UQ
+
+- https://ellipsenpark.bandcamp.com - collected sound works
+- https://vimeo.com/user37414592 - collected video works
+- https://www.parkellipsen.de - principal homepage
+- https://github.com/the-drunk-coder/megra.rs - the Mégra language
+- https://soundclound.com/parkellipsen - drafts and sketches
+- https://www.youtube.com/channel/UCysfFg8mCCzyzXxUb04i9UQ - soundwalks
 
 ## Picture:
 
