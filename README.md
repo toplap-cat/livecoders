@@ -3,7 +3,7 @@ A catalogue of live coding entities from Toplap Barcelona.
 
 (in alphabetical order)
 
-* Alfonso Fonso ([english](alfonsofonso-en.md))
+* Alfonso Fonso ([catalan](alfonsofonso-en.md))
 * Alicia Champlin ([english](alicia-champlin-en.md))
 * Eloi el Bon Noi ([english](eloi-el-bon-noi-en.md))
 * Iván Paz ([english](ivan_paz.md))
