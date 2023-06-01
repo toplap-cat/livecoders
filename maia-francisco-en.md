@@ -8,4 +8,4 @@ Maia studied art and design at Barcelona’s Escola Massana Centre d’Art i Dis
 
 ## Picture
 
-<img src="maia-francisco.jpg" width="300">
+<img src="maia-francisco.jpeg" width="300">
