@@ -8,6 +8,7 @@ A catalogue of live coding entities from Toplap Barcelona.
 * Eloi el Bon Noi ([english](eloi-el-bon-noi-en.md))
 * Iván Paz ([english](ivan_paz.md))
 * Linalab ([english](linalab.md))
+* Maia Francisco ([english](maia-francisco-en.md))
 * Niklas Reppel ([english](niklas-reppel-en.md))
 * QBRNTHSS ([english](QBRNTHSS-en.md))
 * Roger Pibernat ([english](QBRNTHSS-en.md))
